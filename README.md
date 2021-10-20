@@ -1,8 +1,14 @@
-- 👋 Hi, I’m @jey-kim
-- 👀 I’m interested in extracting meaningful information from data.
-- 🌱 I’m currently learning Geophysics and machine learning algorithms.
-- 💞️ I’m looking to collaborate on developing machine learning applications in geophysics. 
-- 📫 Email me: jeonghyeop.kim@gmail.com
+### 👋 Hello everyone, 👋
+###    I’m Jey Kim, a PhD candidate @ Stony Brook Univeristy. 
+###    I am a junior geophysicist who uses space-geodetic data.
+     
+- 👀 I’m interested in extracting information from data!
+-    I’m currently learning  machine learning algorithms.
+
+I am a drummer :drum: and I am from South Korea :kr:
+
+- 📫 Email me: `jeonghyeop.kim@gmail.com`
+- :office: [LinkedIn](https://www.linkedin.com/in/jeykim/)
 
 <!---
 jey-kim/jey-kim is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
