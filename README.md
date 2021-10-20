@@ -1,9 +1,9 @@
 ### 👋 Hello everyone, 👋
-###    I’m Jey Kim, a PhD candidate @ Stony Brook Univeristy. 
-###    I am a junior geophysicist who uses space-geodetic data.
+   I’m **Jey Kim**, a PhD candidate @ Stony Brook Univeristy. 
+     I am a junior **geophysicist** who uses **space-geodetic data**.
      
-- 👀 I’m interested in extracting information from data!
--    I’m currently learning  machine learning algorithms.
+- 👀 I’m interested in extracting information from data and investigating what it tries to tell us!
+- :robot: I’m currently learning  machine learning algorithms.
 
 I am a drummer :drum: and I am from South Korea :kr:
 
