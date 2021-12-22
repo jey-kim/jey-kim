@@ -3,7 +3,7 @@
      I am a junior **geophysicist** who uses **space-geodetic data**.
      
 - 👀 I’m interested in extracting patterns from data and investigating what they try to tell us!
-- :robot: I’m currently learning  machine learning algorithms.
+- :robot: I’m currently learning  machine learning fundamentals.
 
 I am a drummer :drum: and I am from South Korea :kr:
 
